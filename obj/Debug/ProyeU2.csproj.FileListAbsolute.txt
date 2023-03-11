@@ -1,0 +1,44 @@
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\bin\Debug\ProyeU2.exe.config
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\bin\Debug\ProyeU2.exe
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\bin\Debug\ProyeU2.pdb
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.Form1.resources
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.Properties.Resources.resources
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.exe
+C:\Users\Usuario\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.pdb
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.Form1.resources
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.Properties.Resources.resources
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.exe
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\obj\Debug\ProyeU2.pdb
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\bin\Debug\ProyeU2.exe.config
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\bin\Debug\ProyeU2.exe
+C:\Users\sebas\Documents\ITA\Semestre IV\Programacion II\Unidad II\Examen\ProyeU2\bin\Debug\ProyeU2.pdb
+C:\Users\juana\Documents\Examen\ProyeU2\bin\Debug\ProyeU2.exe.config
+C:\Users\juana\Documents\Examen\ProyeU2\bin\Debug\ProyeU2.exe
+C:\Users\juana\Documents\Examen\ProyeU2\bin\Debug\ProyeU2.pdb
+C:\Users\juana\Documents\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.AssemblyReference.cache
+C:\Users\juana\Documents\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.SuggestedBindingRedirects.cache
+C:\Users\juana\Documents\Examen\ProyeU2\obj\Debug\ProyeU2.Form1.resources
+C:\Users\juana\Documents\Examen\ProyeU2\obj\Debug\ProyeU2.Properties.Resources.resources
+C:\Users\juana\Documents\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.GenerateResource.cache
+C:\Users\juana\Documents\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.CoreCompileInputs.cache
+C:\Users\juana\Documents\Examen\ProyeU2\obj\Debug\ProyeU2.exe
+C:\Users\juana\Documents\Examen\ProyeU2\obj\Debug\ProyeU2.pdb
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\bin\Debug\ProyeU2.exe.config
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\bin\Debug\ProyeU2.exe
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\bin\Debug\ProyeU2.pdb
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.AssemblyReference.cache
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.SuggestedBindingRedirects.cache
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\obj\Debug\ProyeU2.Form1.resources
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\obj\Debug\ProyeU2.Properties.Resources.resources
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.GenerateResource.cache
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\obj\Debug\ProyeU2.csproj.CoreCompileInputs.cache
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\obj\Debug\ProyeU2.exe
+C:\Users\juana\Desktop\Programación 2\Examen\ProyeU2\obj\Debug\ProyeU2.pdb
