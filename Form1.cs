@@ -48,7 +48,7 @@ namespace ProyeU2
             if ((tbDes.Equals("") || Canti.Value == 0 || tbPre.Equals("")))
             {
                 //no estan llenados los 3 campos
-                MessageBox.Show("No estan llenados los 3 campos");
+                MessageBox.Show("No estan llenados los 3 campos para ejecutar");
             }
             else
             {
